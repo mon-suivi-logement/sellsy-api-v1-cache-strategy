@@ -16,8 +16,8 @@
     "kevinrob/guzzle-cache-middleware": "*"
   },
   "autoload": {
-    "psr-0": {
-      "sellsy-api-v1-cache-strategy": "src"
+    "psr-4": {
+      "MonSuiviLogement\\GuzzleCache\\Strategy\\": "src"
     }
   }
 }
