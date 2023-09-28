@@ -4,7 +4,7 @@ Sellsy Api V1 cache strategy for Kevinrob Guzzle cache middleware https://github
 
 ## Installation
 
-`composer require mon-suivi-logement/sellsy-api-v1-cache-strategy:dev-main`
+`composer require mon-suivi-logement/sellsy-api-v1-cache-strategy`
 
 or add it the your `composer.json` and run `composer update`.
 
