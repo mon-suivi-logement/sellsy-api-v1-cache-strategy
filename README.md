@@ -1,6 +1,15 @@
 # sellsy-api-v1-cache-strategy
 Sellsy Api V1 cache strategy for Kevinrob Guzzle cache middleware
 
+
+## Installation
+
+`composer require mon-suivi-logement/sellsy-api-v1-cache-strategy:dev-main`
+
+or add it the your `composer.json` and run `composer update`.
+
+
+
 # How?
 
 Example with LaravelCacheStorage :
