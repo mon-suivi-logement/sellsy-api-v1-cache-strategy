@@ -1,0 +1,23 @@
+{
+  "name": "mon-suivi-logement/sellsy-api-v1-cache-strategy",
+  "type": "library",
+  "description": "A cache strategy for Sellsy Api v1, build on top of Kevinrob Guzzle caceh middleware",
+  "keywords": ["sellsy","guzzle", "guzzle6", "cache", "http", "http 1.1", "psr6", "psr7", "handler", "middleware", "cache-control", "rfc7234", "performance", "php", "promise", "expiration", "validation", "Etag", "flysystem", "doctrine"],
+  "homepage": "https://github.com/mon-suivi-logement/sellsy-api-v1-cache-strategy",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Virgile Gaulier",
+      "email": "virgile.gaulier@gmail.com",
+      "homepage": "https://github.com/VirgileGaulier"
+    }
+  ],
+  "require": {
+    "kevinrob/guzzle-cache-middleware": "*"
+  },
+  "autoload": {
+    "psr-0": {
+      "sellsy-api-v1-cache-strategy": "src"
+    }
+  }
+}
