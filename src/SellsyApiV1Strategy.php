@@ -1,5 +1,6 @@
 <?php
 
+namespace MonSuiviLogement\GuzzleCache\Strategy;
 
 use Kevinrob\GuzzleCache\KeyValueHttpHeader;
 use Psr\Http\Message\RequestInterface;
